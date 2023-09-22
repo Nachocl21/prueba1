@@ -1,0 +1,11 @@
+C:\Nacho Curso 2º Dam\Ejercicios hechos por mi\VB.net\Ejercicios basicos VBNet B\Ejercicios Basicos VBNet ejercicio 1 B\bin\Debug\Ejercicios Basicos VBNet ejercicio 1 B.exe.config
+C:\Nacho Curso 2º Dam\Ejercicios hechos por mi\VB.net\Ejercicios basicos VBNet B\Ejercicios Basicos VBNet ejercicio 1 B\bin\Debug\Ejercicios Basicos VBNet ejercicio 1 B.exe
+C:\Nacho Curso 2º Dam\Ejercicios hechos por mi\VB.net\Ejercicios basicos VBNet B\Ejercicios Basicos VBNet ejercicio 1 B\bin\Debug\Ejercicios Basicos VBNet ejercicio 1 B.pdb
+C:\Nacho Curso 2º Dam\Ejercicios hechos por mi\VB.net\Ejercicios basicos VBNet B\Ejercicios Basicos VBNet ejercicio 1 B\bin\Debug\Ejercicios Basicos VBNet ejercicio 1 B.xml
+C:\Nacho Curso 2º Dam\Ejercicios hechos por mi\VB.net\Ejercicios basicos VBNet B\Ejercicios Basicos VBNet ejercicio 1 B\obj\Debug\Ejercicios Basicos VBNet ejercicio 1 B.vbproj.AssemblyReference.cache
+C:\Nacho Curso 2º Dam\Ejercicios hechos por mi\VB.net\Ejercicios basicos VBNet B\Ejercicios Basicos VBNet ejercicio 1 B\obj\Debug\Ejercicios_Basicos_VBNet_ejercicio_1_B.Resources.resources
+C:\Nacho Curso 2º Dam\Ejercicios hechos por mi\VB.net\Ejercicios basicos VBNet B\Ejercicios Basicos VBNet ejercicio 1 B\obj\Debug\Ejercicios Basicos VBNet ejercicio 1 B.vbproj.GenerateResource.cache
+C:\Nacho Curso 2º Dam\Ejercicios hechos por mi\VB.net\Ejercicios basicos VBNet B\Ejercicios Basicos VBNet ejercicio 1 B\obj\Debug\Ejercicios Basicos VBNet ejercicio 1 B.vbproj.CoreCompileInputs.cache
+C:\Nacho Curso 2º Dam\Ejercicios hechos por mi\VB.net\Ejercicios basicos VBNet B\Ejercicios Basicos VBNet ejercicio 1 B\obj\Debug\Ejercicios Basicos VBNet ejercicio 1 B.exe
+C:\Nacho Curso 2º Dam\Ejercicios hechos por mi\VB.net\Ejercicios basicos VBNet B\Ejercicios Basicos VBNet ejercicio 1 B\obj\Debug\Ejercicios Basicos VBNet ejercicio 1 B.xml
+C:\Nacho Curso 2º Dam\Ejercicios hechos por mi\VB.net\Ejercicios basicos VBNet B\Ejercicios Basicos VBNet ejercicio 1 B\obj\Debug\Ejercicios Basicos VBNet ejercicio 1 B.pdb
